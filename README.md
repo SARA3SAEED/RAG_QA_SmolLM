@@ -50,6 +50,10 @@ This project demonstrates a basic implementation of a **Retrieval Augmented Gene
 
 ## 🚀 Getting Started
 
+
+You can open and run the notebook here:
+
+[Open Notebook in Google Colab](https://colab.research.google.com/drive/1D211mAGlEpc50f0uPudm_EYEULRzIbAf?usp=drive_link)
 To run this notebook, install the required libraries:
 
 ```bash
