@@ -56,7 +56,7 @@ You can open and run the notebook here:
 [Open Notebook in Google Colab](
 You can open and run the notebook here:
 
-[Open Notebook in Google Colab](https://colab.research.google.com/drive/1D211mAGlEpc50f0uPudm_EYEULRzIbAf?usp=drive_link))
+[Open Notebook in Google Colab](https://colab.research.google.com/drive/10O0bNd-a-N4biM3mXuM8XttIjzrFqKhz?usp=sharing)
 To run this notebook, install the required libraries:
 
 ```bash
